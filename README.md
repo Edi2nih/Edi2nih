@@ -1,6 +1,6 @@
 # Selamat Datang di Profil Saya 👋
 
-![Header](https://imgur.com/a/SbBqMRz)
+![Header](https://raw.githubusercontent.com/Edi2nih/Edi2nih/refs/heads/main/banner-dengan-n_1736606115.png)
 
 ## Tentang Saya
 
